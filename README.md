@@ -15,3 +15,7 @@ Repo with Python Jupyter notebooks tacking supply chain problems using Bayesian 
 - Explore the effect of various features on the Probability of selling website
 - Optimize over model to find best listing price
 - Check out the website_sell_price_optimization.ipynb for more!
+
+## Problem 3: What price should I sell my cell phone for?
+- similar to Problem 2
+- check out cellphone_sell_price_optimization.ipynb!
